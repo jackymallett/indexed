@@ -20,5 +20,5 @@ Contributors
 
 Author: Jacky Mallett
 
-Jón Thor Sturlson (Formula for calculation)
+Jón Þór Sturlson (Formula for calculation)  
 Einar Jón Einarsson (Excel Spreadsheet)
