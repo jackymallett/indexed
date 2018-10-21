@@ -1,7 +1,7 @@
 Verðtrygging
 ============
 
-Verðtrygg Lán, or indexed linked loans, are a financial instrument widely used in Iceland
+Verðtryggð Lán, or indexed linked loans, are a financial instrument widely used in Iceland
 for personal and commercial loans. They are calculated using an annuity based formula
 which applies the current inflation rate, as measured by the 
 Consumer Price Index (CPI), to the outstanding principal of the loan, so that the principal
